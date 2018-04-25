@@ -1,3 +1,11 @@
+## Installation
+
+-> composer update
+-> .env
+-> php artisan key:generate
+-> php artisan serve
+_____________________________________________________________________________________________________
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
