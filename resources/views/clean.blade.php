@@ -31,8 +31,8 @@
 
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/1.jpg">
-                        <img src="images/1.jpg" alt="Sample">
+                    <a class="lightbox" href="samples/1.jpg">
+                        <img src="samples/1.jpg" alt="Sample">
                     </a>
                     <div class="caption">
                         <h3>Sample</h3>
@@ -42,8 +42,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/2.jpg">
-                        <img src="images/2.jpg" alt="Sample">
+                    <a class="lightbox" href="samples/2.jpg">
+                        <img src="samples/2.jpg" alt="Sample">
                     </a>
                     <div class="caption">
                         <h3>Sample</h3>
@@ -53,8 +53,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/3.jpg">
-                        <img src="images/3.jpg" alt="Sample">
+                    <a class="lightbox" href="samples/3.jpg">
+                        <img src="samples/3.jpg" alt="Sample">
                     </a>
                     <div class="caption">
                         <h3>Sample</h3>
@@ -64,8 +64,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/4.jpg">
-                        <img src="images/4.jpg" alt="Sample">
+                    <a class="lightbox" href="samples/4.jpg">
+                        <img src="samples/4.jpg" alt="Sample">
                     </a>
                     <div class="caption">
                         <h3>Sample</h3>
@@ -75,8 +75,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/5.jpg">
-                        <img src="images/5.jpg" alt="Sample">
+                    <a class="lightbox" href="samples/5.jpg">
+                        <img src="samples/5.jpg" alt="Sample">
                     </a>
                     <div class="caption">
                         <h3>Sample</h3>
@@ -86,8 +86,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/6.jpg">
-                        <img src="images/6.jpg" alt="Sample">
+                    <a class="lightbox" href="samples/6.jpg">
+                        <img src="samples/6.jpg" alt="Sample">
                     </a>
                     <div class="caption">
                         <h3>Sample</h3>
@@ -97,8 +97,8 @@
             </div>
              <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/7.jpg">
-                        <img src="images/7.jpg" alt="Sample">
+                    <a class="lightbox" href="samples/7.jpg">
+                        <img src="samples/7.jpg" alt="Sample">
                     </a>
                     <div class="caption">
                         <h3>Sample</h3>
