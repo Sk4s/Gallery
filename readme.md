@@ -1,8 +1,13 @@
 ## Installation
 
 -> composer update
+<br>
 -> .env
+<br>
 -> php artisan key:generate
+<br>
+-> php artisan migrate
+<br>
 -> php artisan serve
 _____________________________________________________________________________________________________
 
