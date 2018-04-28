@@ -1,6 +1,6 @@
 ## Installation
 
--> If you don't see the folder in your localhost make a "sudo chmod -R 777 DigitalSheet-master" in terminal 
+-> If you don't see the folder in your localhost make a "sudo chmod -R 777 Gallery-master" in terminal 
 <br>
 -> composer update
 <br>
